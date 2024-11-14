@@ -74,10 +74,3 @@ If you're using a Node.js environment for development, you can set up the projec
 
 3. The game will be available at `http://localhost:3000` (or another port, depending on your setup).
 
-## Contribution
-
-Feel free to fork the repository, submit issues, or make pull requests to contribute to this project.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
